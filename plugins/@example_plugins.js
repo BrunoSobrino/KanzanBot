@@ -1,5 +1,5 @@
 'use strict';
-n
+
 const fs   = require('fs');
 const path = require('path');
 const axios = require('axios');  // Para peticiones HTTP
