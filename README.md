@@ -1,4 +1,4 @@
-c# 🌸 KanzanBot v2
+# 🌸 KanzanBot v2
 
 Bot de WhatsApp con @whiskeysockets/baileys — Inspirado en los cerezos japoneses
 
